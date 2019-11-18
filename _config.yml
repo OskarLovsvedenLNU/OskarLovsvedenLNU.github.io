@@ -23,7 +23,7 @@ email: ol222hf@student.lnu.se
 description: >- # this means to ignore newlines until "baseurl:"
   This is a site made for the course 1DV022 - Client-based Web Programming at Linnaeus University.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://OskarLovsvedenLNU.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: OskarLovsveden
 github_username:  OskarLovsvedenLNU
 
@@ -31,6 +31,10 @@ github_username:  OskarLovsvedenLNU
 theme: minima
 plugins:
   - jekyll-feed
+
+# Disqus stuff
+disqus:
+  shortname: oskarlovsveden
 
 # Exclude from processing.
 # The following items will not be processed, by default.

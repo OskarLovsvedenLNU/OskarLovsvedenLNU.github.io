@@ -106,7 +106,7 @@
 .site-footer {
   border-top: 1px solid $grey-color-dark;
   padding: $spacing-unit 0;
-  background-color: rgb(226, 241, 230);
+  background-color: #e2f1e6;
 }
 
 .footer-heading {
@@ -193,6 +193,10 @@
 
   > li {
     margin-bottom: $spacing-unit;
+    background-color: #e2f1e6;
+    border-radius: 10px;
+    padding: 3px;
+    padding-left: 10px;
   }
 }
 
