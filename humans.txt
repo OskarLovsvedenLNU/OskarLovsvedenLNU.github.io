@@ -1,0 +1,17 @@
+/* TEAM */
+
+	Me: Oskar Lövsveden
+    Contact: ol222hf@student.lnu.se
+	Twitter: @oskarlovsveden
+	From:Kalmar, Sweden
+
+/* THANKS */
+
+    My cats: Agda, Leia
+    Jekyll: Providing great templates.
+
+/* SITE */
+
+	Last update: 2019/11/18
+	Language: English
+	IDE: Visual Studio Code, Notepad++
