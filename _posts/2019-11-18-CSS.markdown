@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "CSS"
+comments: true
+---
+
+- What do you think of pre-compiling your CSS?
+
+    I like it, but I'm sure regular CSS is soon to be just as good as this. Anything that has a higher learning curve, but actually makes things easier is better in every way if you ask me.
+
+1. Compare to regular CSS
+It really feels easier and faster to work with as long as you know what you are looking for. The nestling is amazing as well, as i feel it saves so much time and thought.
+
+2. Which techniques did you use?
+I can't say i used a lot. I mainly played around with the variables for primary colors and such. I tried getting in some nestling, but didnt really feel like I found somewhere where it fit in.
+Other than that i just made sure to alter the sight and give it a new color scheme.
+
+3. Pros and cons?
+The cons are pretty obvious for beginners I'm sure. But as long as you understand what you are supposed to be looking for it gets so much easier when everything is bundled nicely for you.
+Another con might be the fact that troubleshooting/debugging is harder when you can't be sure the browser will give you the proper line of code which is faulty.
