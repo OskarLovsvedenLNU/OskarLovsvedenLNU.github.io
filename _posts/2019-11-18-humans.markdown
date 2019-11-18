@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "humans.txt"
+comments: true
+---
+
+#   What is humans.txt and how have you configure it for your site?
+
+It's an intiative made with the intention of knowing the people who are responsible for the creation of the site.
+Because of it being a .txt-file it doesn't intrude with the code.
+
+{% highlight plain text %}
+/* TEAM */
+
+    Me: Oskar Lövsveden
+    Contact: ol222hf@student.lnu.se
+    Twitter: @oskarlovsveden
+    From:Kalmar, Sweden
+
+/* THANKS */
+
+    My cats: Agda, Leia
+    Jekyll: Providing great templates.
+
+/* SITE */
+
+    Last update: 2019/11/18
+    Language: English
+    IDE: Visual Studio Code, Notepad++
+{% endhighlight %}
+
+I used it to provide some short info about myself, a not so serious thanks-section dedicated to Jekyll and my cats and also some short info on the site and tools used.

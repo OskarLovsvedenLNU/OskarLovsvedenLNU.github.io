@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "The Open Graph protocol"
+comments: true
+---
+
+*What is Open Graph and how do you make use of it?
+
+It enables any web page to be treated as a graph object. It is mainly used to make sure you can preview your website in a very scaled down way.
+It makes for a richer representation. We can manage this by adding the the following ``<meta>`` tags to the ``<head>`` of the web page.
+
+In the ``_includes`` folder under ``head.html`` I added the following:
+
+{% highlight html %}
+<meta content="{{site.title}}" property="og:title">
+<meta content="web page" property="og:type">
+<meta content="https://OskarLovsvedenLNU.github.io/pokeman.png" property="og:image">
+<meta content="https://OskarLovsvedenLNU.github.io" property="og:url">
+{% endhighlight %}

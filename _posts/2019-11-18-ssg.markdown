@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Static Site Generators"
+comments: true
+---
+
+#   What do you think of static site generators?
+They are really nice in the way that you don't have to start from scratch. Working with templates really helps to get productivity up.
+
+1.  What type of projects are they suitable for?
+    Projects like these, blogs and other sources of information. I'm sure many apps on mobile phones would benefit from these tools if you just want a "plain" website for logging in to a service and getting some basic information.

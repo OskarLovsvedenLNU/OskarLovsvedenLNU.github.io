@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "robots.txt"
+comments: true
+---
+
+#   What is robots.txt and how have you configure it for your site?
+``robots.txt`` is a textfile in the rootfolder. It tells the many search-engines how they are allowed to crawl.
+
+1.  All search-engines have free access to the contents of your website.
+2.  Many request this file and if it does not exist it can cause an unnecessary burden on the performance of your site.
+
+It's almost always a good idea to have this file on your site, even if it is empty.
+
+{% highlight plain text %}
+#   robots.txt
+#   Blocking all search-engines on the entire site
+User-agent: *
+Disallow: /
+{% endhighlight %}
+
+I used this feature to block the entire site from all search-engines.
